@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1, [COLOR cyan] =KODI Malaysia IPTV= [/COLOR] 
+http://www.youtube.com/
+#EXTINF:-1,RTM 1
+http://streamer1.cf.aws.stream.my/…/mp4:rtm-…/chunklist.m3u8
+#EXTINF:-1,RTM 2
+http://streamer1.cf.aws.stream.my/…/mp4:rtm-…/chunklist.m3u8
+#EXTINF:-1,TV3
+http://tv3liveios-i.akamaihd.net/…/…/ios/tv3live/master.m3u8
+#EXTINF:-1,NTV7
+http://ntv7liveios-i.akamaihd.net/…/ios/ntv7live/master.m3u8
+#EXTINF:-1,8TV
+http://8tvliveios-i.akamaihd.net/…/…/ios/8tvlive/master.m3u8
+#EXTINF:-1,TV9
+http://tv9liveios-i.akamaihd.net/…/…/ios/tv9live/master.m3u8
+#EXTINF:-1,AL HIJRAH
+http://202.73.9.10:1935/…/smil:tvalhijrah_all…/playlist.m3u8
+#EXTINF:-1,TVi
+http://d2gi9ohf9965ej.cloudfront.net/…/mp4:rt…/playlist.m3u8
+#EXTINF:-1 tvg-logo="astro-AWANI.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO AWANI[/I][/COLOR]
+http://bit.ly/astro-AWANI
+#EXTINF:-1 tvg-logo="astro-ARENA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO ARENA[/I][/COLOR]
+http://bit.ly/astro-ARENA
+#EXTINF:-1 tvg-logo="astro-PRIMA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO PRIMA[/I][/COLOR]
+http://bit.ly/astro-PRIMA
+#EXTINF:-1 tvg-logo="astro-WARNA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO WARNA[/I][/COLOR]
+http://bit.ly/astro-WARNA
+#EXTINF:-1 tvg-logo="astro-OASIS.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO OASIS[/I][/COLOR]
+http://bit.ly/astro-OASIS
+#EXTINF:-1 tvg-logo="astro-RIA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO RIA[/I][/COLOR]
+http://www.layarku.tv/media/ria.m3u8
+#EXTINF:-1, [COLOR cyan] =NEWS CHANNEL= [/COLOR] 
+http://www.youtube.com/
+#EXTINF:-1,1NEWS
+http://streamer4.aws.stream.my/…/mp4:rtm-ch02…/playlist.m3u8
+#EXTINF:-1,ASTRO AWANI
+rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
+#EXTINF:-1,BERNAMA TV
+http://stream2.1malaysiaiptv.com:1935/…/smil:ber…/media.m3u8
+#EXTINF:-1,BBC WORLDS NEWS
+http://93.184.221.133/…/20C…/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 radio="true",[COLOR yellow] RED.FM [/COLOR]
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+#EXTINF:-1 radio="true",[COLOR yellow] HITZ.FM [/COLOR]
+http://astro1.rastream.com/hitz
+#EXTINF:-1 radio="true",[COLOR yellow] LITE.FM [/COLOR]
+http://astro1.rastream.com/lite
+#EXTINF:-1 radio="true",[COLOR yellow] MY.FM [/COLOR]
+http://astro1.rastream.com/myfm
+#EXTINF:-1 radio="true",[COLOR yellow] MIX.FM [/COLOR]
+http://astro2.rastream.com/mix
+#EXTINF:-1 radio="true",[COLOR yellow] SINAR.FM [/COLOR]
+http://astro2.rastream.com/sinar
+#EXTINF:-1 radio="true",[COLOR yellow] ERA.FM [/COLOR]
+http://astro2.rastream.com/era
+#EXTINF:-1 radio="true",[COLOR yellow] OPUS.FM [/COLOR]
+http://astro4.rastream.com/opus
+#EXTINF:-1 radio="true",[COLOR yellow] GOLD.FM [/COLOR]
+http://astro4.rastream.com/gold
+#EXTINF:-1 radio="true",[COLOR yellow] JAZZ.FM [/COLOR]
+http://astro4.rastream.com/jazz
+#EXTINF:-1 radio="true",[COLOR yellow] ROCK.FM [/COLOR]
+http://astro4.rastream.com/rock
+#EXTINF:-1,ASTRO ARENA
+http://bit.ly/astro-ARENA
+#EXTINF:-1,ASTRO PRIMA
+http://bit.ly/astro-PRIMA
+#EXTINF:-1,ASTRO WARNA
+http://bit.ly/astro-WARNA
+#EXTINF:-1,ASTRO Ria
+http://bit.ly/astro-RIA
+#EXTINF:-1, Supersport 1
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS1_1@1…/master.m3u8
+#EXTINF:-1, Supersport 2
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS2_1@2…/master.m3u8
+#EXTINF:-1, Supersport 3
+http://dstvdm_hls_in-i.akamaihd.net/…/DSTVNOW-2…/master.m3u8
+#EXTINF:-1, Supersport 4
+http://dstvdm_hls_in-i.akamaihd.net/…/DSTVNOW-2…/master.m3u8
+#EXTINF:-1, Supersport 5
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS5_1@5…/master.m3u8
+#EXTINF:-1, Supersport 6
+http://dstvdm_hls_in-i.akamaihd.net/…/DSTVNOW-2…/master.m3u8
+#EXTINF:-1, Supersport 7
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS7_1@4…/master.m3u8
+RAW Paste Data
+#EXTM3U
+#EXTINF:-1, [COLOR cyan] =KODI Malaysia IPTV= [/COLOR] 
+http://www.youtube.com/
+#EXTINF:-1,RTM 1
+http://streamer1.cf.aws.stream.my/…/mp4:rtm-…/chunklist.m3u8
+#EXTINF:-1,RTM 2
+http://streamer1.cf.aws.stream.my/…/mp4:rtm-…/chunklist.m3u8
+#EXTINF:-1,TV3
+http://tv3liveios-i.akamaihd.net/…/…/ios/tv3live/master.m3u8
+#EXTINF:-1,NTV7
+http://ntv7liveios-i.akamaihd.net/…/ios/ntv7live/master.m3u8
+#EXTINF:-1,8TV
+http://8tvliveios-i.akamaihd.net/…/…/ios/8tvlive/master.m3u8
+#EXTINF:-1,TV9
+http://tv9liveios-i.akamaihd.net/…/…/ios/tv9live/master.m3u8
+#EXTINF:-1,AL HIJRAH
+http://202.73.9.10:1935/…/smil:tvalhijrah_all…/playlist.m3u8
+#EXTINF:-1,TVi
+http://d2gi9ohf9965ej.cloudfront.net/…/mp4:rt…/playlist.m3u8
+#EXTINF:-1 tvg-logo="astro-AWANI.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO AWANI[/I][/COLOR]
+http://bit.ly/astro-AWANI
+#EXTINF:-1 tvg-logo="astro-ARENA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO ARENA[/I][/COLOR]
+http://bit.ly/astro-ARENA
+#EXTINF:-1 tvg-logo="astro-PRIMA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO PRIMA[/I][/COLOR]
+http://bit.ly/astro-PRIMA
+#EXTINF:-1 tvg-logo="astro-WARNA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO WARNA[/I][/COLOR]
+http://bit.ly/astro-WARNA
+#EXTINF:-1 tvg-logo="astro-OASIS.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO OASIS[/I][/COLOR]
+http://bit.ly/astro-OASIS
+#EXTINF:-1 tvg-logo="astro-RIA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO RIA[/I][/COLOR]
+http://www.layarku.tv/media/ria.m3u8
+#EXTINF:-1, [COLOR cyan] =NEWS CHANNEL= [/COLOR] 
+http://www.youtube.com/
+#EXTINF:-1,1NEWS
+http://streamer4.aws.stream.my/…/mp4:rtm-ch02…/playlist.m3u8
+#EXTINF:-1,ASTRO AWANI
+rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
+#EXTINF:-1,BERNAMA TV
+http://stream2.1malaysiaiptv.com:1935/…/smil:ber…/media.m3u8
+#EXTINF:-1,BBC WORLDS NEWS
+http://93.184.221.133/…/20C…/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 radio="true",[COLOR yellow] RED.FM [/COLOR]
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+#EXTINF:-1 radio="true",[COLOR yellow] HITZ.FM [/COLOR]
+http://astro1.rastream.com/hitz
+#EXTINF:-1 radio="true",[COLOR yellow] LITE.FM [/COLOR]
+http://astro1.rastream.com/lite
+#EXTINF:-1 radio="true",[COLOR yellow] MY.FM [/COLOR]
+http://astro1.rastream.com/myfm
+#EXTINF:-1 radio="true",[COLOR yellow] MIX.FM [/COLOR]
+http://astro2.rastream.com/mix
+#EXTINF:-1 radio="true",[COLOR yellow] SINAR.FM [/COLOR]
+http://astro2.rastream.com/sinar
+#EXTINF:-1 radio="true",[COLOR yellow] ERA.FM [/COLOR]
+http://astro2.rastream.com/era
+#EXTINF:-1 radio="true",[COLOR yellow] OPUS.FM [/COLOR]
+http://astro4.rastream.com/opus
+#EXTINF:-1 radio="true",[COLOR yellow] GOLD.FM [/COLOR]
+http://astro4.rastream.com/gold
+#EXTINF:-1 radio="true",[COLOR yellow] JAZZ.FM [/COLOR]
+http://astro4.rastream.com/jazz
+#EXTINF:-1 radio="true",[COLOR yellow] ROCK.FM [/COLOR]
+http://astro4.rastream.com/rock
+#EXTINF:-1,ASTRO ARENA
+http://bit.ly/astro-ARENA
+#EXTINF:-1,ASTRO PRIMA
+http://bit.ly/astro-PRIMA
+#EXTINF:-1,ASTRO WARNA
+http://bit.ly/astro-WARNA
+#EXTINF:-1,ASTRO Ria
+http://bit.ly/astro-RIA
+#EXTINF:-1, Supersport 1
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS1_1@1…/master.m3u8
+#EXTINF:-1, Supersport 2
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS2_1@2…/master.m3u8
+#EXTINF:-1, Supersport 3
+http://dstvdm_hls_in-i.akamaihd.net/…/DSTVNOW-2…/master.m3u8
+#EXTINF:-1, Supersport 4
+http://dstvdm_hls_in-i.akamaihd.net/…/DSTVNOW-2…/master.m3u8
+#EXTINF:-1, Supersport 5
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS5_1@5…/master.m3u8
+#EXTINF:-1, Supersport 6
+http://dstvdm_hls_in-i.akamaihd.net/…/DSTVNOW-2…/master.m3u8
+#EXTINF:-1, Supersport 7
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS7_1@4…/master.m3u8
